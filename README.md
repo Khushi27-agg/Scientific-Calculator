@@ -1,5 +1,6 @@
 # Scientific Calculator
 📐 Day 7 – Scientific Calculator with Trigonometric Functions (C++)
+
 📌 Overview
 
 Day 7 of my coding challenge focuses on building a menu-driven scientific calculator using C++. This program supports basic arithmetic operations along with advanced trigonometric calculations, where results are displayed for angles considered in both degrees and radians.
