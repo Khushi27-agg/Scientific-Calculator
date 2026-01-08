@@ -1,3 +1,4 @@
+# Scientific Calculator
 📐 Day 7 – Scientific Calculator with Trigonometric Functions (C++)
 📌 Overview
 
